@@ -10,6 +10,7 @@ payload:
   - '+.bing.com'
   - '+.hume.ai'
   - '+.medium.com'
+  - '+.googleapis.com'
   - '+.gemini.google.com'
   - '+.play.google.com'
   - '+.microsoft.com'
