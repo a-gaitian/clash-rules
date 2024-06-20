@@ -30,3 +30,5 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
   - '+.supercell.com'
+  - '+.usercentrics.eu'
+  - '+.sentry.io'
