@@ -27,8 +27,6 @@ payload:
   - '+.anilibria.tv'
   - '+.quora.com'
   - '+.chatgpt.com'
-  - '+.docker.com'
-  - '+.docker.io'
   - '+.supercell.com'
   - '+.usercentrics.eu'
   - '+.sentry.io'
