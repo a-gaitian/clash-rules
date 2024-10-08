@@ -1,6 +1,7 @@
 payload:
-  - '+.ggpht.+'
-  - '+.lencr.+'
-  - '+.googleapis.+'
-  - '+.googlevideo.+'
-  - '+.youtube.+'
+  - '+.ggpht.com'
+  - '+.lencr.org'
+  - '+.ytimg.com'
+  - '+.googleapis.com'
+  - '+.googlevideo.com'
+  - '+.youtube.com'
