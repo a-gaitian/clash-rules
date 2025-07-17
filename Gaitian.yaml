@@ -6,6 +6,7 @@ payload:
   - GEOSITE,discord,London
   - GEOSITE,tiktok,London
   - GEOSITE,openai,London
+  - GEOSITE,instagram,London
 
   - GEOIP,telegram,DIRECT
   - GEOIP,yandex,DIRECT
