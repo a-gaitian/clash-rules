@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,gaitian.tech,DIRECT
-
   - GEOSITE,category-ads-all,REJECT
   - GEOSITE,youtube,London
   - GEOSITE,discord,London
@@ -8,9 +6,6 @@ payload:
   - GEOSITE,openai,London
   - GEOSITE,instagram,London
 
-  - GEOIP,telegram,DIRECT
-  - GEOIP,yandex,DIRECT
-  - GEOIP,google,DIRECT
   - GEOIP,twitter,London
   - GEOIP,ru-blocked,London
 
