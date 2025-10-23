@@ -1,12 +1,13 @@
 payload:
-  - GEOSITE,category-ads-all,REJECT
-  - GEOSITE,youtube,London
-  - GEOSITE,discord,London
-  - GEOSITE,tiktok,London
-  - GEOSITE,openai,London
-  - GEOSITE,instagram,London
+  - GEOSITE,youtube
+  - GEOSITE,discord
+  - GEOSITE,tiktok
+  - GEOSITE,openai
+  - GEOSITE,instagram
 
-  - GEOIP,twitter,London
-  - GEOIP,ru-blocked,London
+  - GEOIP,twitter
+  - GEOIP,ru-blocked
+
+  - DST-PORT,50000-50010
 
   - MATCH,DIRECT
