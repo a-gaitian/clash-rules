@@ -1,6 +1,4 @@
 payload:
-  - GEOSITE,youtube
-  - GEOSITE,discord
   - GEOSITE,tiktok
   - GEOSITE,openai
   - GEOSITE,instagram
