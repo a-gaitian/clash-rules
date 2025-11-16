@@ -5,9 +5,7 @@ payload:
 
   - GEOIP,twitter
   - GEOIP,ru-blocked
-
-  - DOMAIN-SUFFIX,modrinth.com
-
+  
   - DST-PORT,50000-50010
 
   - MATCH,DIRECT
